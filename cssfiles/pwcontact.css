@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(204, 210, 222);
+    background-image: url(../media/townbythesea.JPEG);
+    background-size: cover;
+    background-position: 10%;
+}
+
+.links{
+    text-align: right;
+}
+.align-left{
+    float: left;
+    margin: 10px;
+}
+.links a:link{
+    text-align: right;
+    color:rgb(38, 65, 21);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+    text-decoration: none;
+    margin-right: 1%;
+    margin-left: 1%;
+    padding-right: 10px;
+}
+.contact a:link{
+    color:rgb(0, 38, 87);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+a:hover{
+    color: rgb(118, 118, 139);
+}
+a:visited{
+    color: rgb(33, 65, 21);
+}
+
+.contact{
+    color:rgb(0, 38, 87);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding-top: 8%;
+    padding-bottom: 15%;
+    
+}
+.contact h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(0, 38, 87);
+    text-align: center;
+    line-height: 0.5cm;
+}

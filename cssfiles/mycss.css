@@ -1,0 +1,29 @@
+body{
+    background-color: cornsilk;
+}
+h1{
+    color: rgb(99, 70, 99);
+    background-color: rgb(176, 146, 190);
+    height: 12%;
+    width: 165px;
+    padding: 10%;
+    margin: 2%;
+    border: 2px;
+    border-radius: 15px;
+    border-style: dotted;
+    border-color: hotpink;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 36px;
+    text-align: center;
+    
+}
+.again{
+    color:darkslateblue;
+}
+
+h3{
+    color:rgb(34, 24, 92);
+}
+#title3{
+    color:darkslategray
+}

@@ -1,0 +1,159 @@
+body{
+    background-color: #ccd2de;
+    background-image: url(../media/blueoysterfull.jpg);
+    /*background-image: url(../media/bluefirework.jpg);*/
+}
+.links{
+    text-align: right;
+    
+}
+a:link{
+    text-decoration: none; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+    text-decoration: none;
+    margin-right: 1%;
+    margin-left: 1%;
+    padding-right: 10px;
+}
+h1{
+    color: rgb(0, 38, 87);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    font-size: 700%;
+    background-image: url(../media/blueoyster.jpg);
+    /*background-image: url(../media/bluefirework.jpg);*/
+    background-position: 5%;
+    scale: 50%;
+    border: 25%;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgb(0, 38, 87);
+    padding: 4%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 8%;
+    margin-right: 8%;
+}
+
+.documentary iframe{
+    margin-left: 3%;
+    margin-right: 3%;
+    float: left;
+}
+
+.documentary h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0%;
+    margin-left: 3%;
+    color: rgb(93, 12, 12);
+    
+}
+
+.documentary h4{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 0%;
+    margin-bottom: auto;
+    margin-left: 3%;
+    color: rgb(123, 44, 44);
+    
+}
+
+.documentary p{
+    float: right;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-right: 3%;
+    color: rgb(33, 44, 55);
+}
+h3{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(123, 44, 44);
+    font-style: italic;
+    
+    
+}
+.proposal{
+    display: grid;
+    grid-template-columns:repeat(3, 1fr);
+    grid-column-gap: 5px;
+    grid-row-gap: 5px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(33, 44, 55);
+    font-size: small;
+}
+.proposal img{
+    width: 100%;
+    height: auto;
+}
+.docuphotos{
+    display: grid;
+    grid-template-columns:repeat(3, 1fr);
+    grid-column-gap: 5px;
+    grid-row-gap: 5px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(33, 44, 55);
+    font-size: small;
+}
+.docuphotos img{
+    width: 100%;
+    height: auto;
+}
+.photography{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(40, 45, 46);
+    margin-left: 3%;
+    margin-right: 3%;
+}
+.photography h2{
+    margin:0%
+}
+.photography h4{
+    margin-top: 0%;
+    margin-bottom: auto;
+}
+.bondi{
+    display: grid;
+    grid-template-columns:repeat(3, 1fr);
+}
+.bondititle h3{
+    color: darkslateblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    text-align: center;
+    font-style: italic;
+}
+.bondi img{
+    width: 100%;
+    height: auto;
+}
+
+.ireland{
+    display: grid;
+    grid-template-columns:repeat(2, 1fr);
+}
+.irelandtitle h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(29, 56, 8);
+    text-align: center;
+    font-style: italic;
+}
+.ireland img{
+    width: 100%;
+    height: auto;
+}
+.winter{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+.wintertitle h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(105, 14, 14);
+    text-align: center;
+    font-style: italic;
+}
+.winter img{
+    width: 100%;
+    height: auto;
+}
